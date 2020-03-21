@@ -9,4 +9,4 @@ The internet is full of information, and often the questions often are 'How can 
 
 ## Assets
 1. Slides
-2:
+2. Code [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PIugai/tmall-scraper/master) 
