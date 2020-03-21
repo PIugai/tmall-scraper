@@ -9,4 +9,5 @@ The internet is full of information, and often the questions often are 'How can 
 
 ## Assets
 1. Slides
-2. https://hub.gke.mybinder.org/user/piugai-tmall-scraper-msvpy5ja/tree?token=nxvXBDo_Rw6R31JImYhA4g
+2. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PIugai/tmall-scraper/master) .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/PIugai/tmall-scraper/master
