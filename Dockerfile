@@ -6,5 +6,4 @@ RUN pip install pandas numpy matplotlib beautifulsoup4 seaborn jupyter-offlineno
 RUN rm -rf ./work
 
 COPY --chown=1000:100 ./livecode_tmall.ipynb .
-COPY --chown=1000:100 ./livecode_tmall_completed.ipynb .
 COPY --chown=1000:100 ./challenges_tmall.ipynb .
